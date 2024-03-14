@@ -1,0 +1,11 @@
+Top 4 winning streaks
+1) 8 trades        2021-02-01     to      2021-02-02           profit: 37262.5
+2) 7 trades        2020-12-09     to      2020-12-10           profit: 22266.25
+3) 8 trades        2021-01-25     to      2021-01-25           profit: 20052.5
+4) 6 trades        2020-11-17     to      2020-11-17           profit: 19653.75
+
+Top 4 losing streaks
+1) 10 trades        2021-01-29     to      2021-02-01           loss: -15396.25
+2) 8 trades        2020-11-25     to      2020-11-26           loss: -14818.75
+3) 11 trades        2020-12-22     to      2020-12-23           loss: -14287.5
+4) 11 trades        2021-02-18     to      2021-02-18           loss: -12970.000000000002
